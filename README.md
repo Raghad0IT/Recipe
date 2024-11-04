@@ -9,8 +9,10 @@ Welcome to My Recipe This application is your personal digital cookbook, allowin
 - 🏞️Upload Photo: Upload photos of your dishes to enhance your recipe collection visually.
 - 🔎Search: Quickly find your favorite recipes by searching for titles or ingredients.
 
-## 📸 Screenshots
+## ✨Summary 
+In essence, the My Recipe Book App aims to enrich the culinary experience by streamlining recipe management, fostering organization, and making cooking a more enjoyable activity for everyone.
 
+## 📸 Screenshots
 ![IMAGE 1446-05-02 16:29:58](https://github.com/user-attachments/assets/3f072bed-2f98-49aa-bbce-c291f8c80938)
 ![IMAGE 1446-05-02 16:30:05](https://github.com/user-attachments/assets/e4c33e4a-ff6a-4702-a7c9-4da0d3056788)
 ![IMAGE 1446-05-02 16:30:13](https://github.com/user-attachments/assets/25ac4730-7b66-449b-85b8-233ac36f2935)
@@ -18,5 +20,4 @@ Welcome to My Recipe This application is your personal digital cookbook, allowin
 ![IMAGE 1446-05-02 16:30:26](https://github.com/user-attachments/assets/e502e1c3-0133-4492-b3ad-691f9b2df373)
 ![IMAGE 1446-05-02 16:30:30](https://github.com/user-attachments/assets/74a926b2-9f2b-4c67-b70d-8f90c32e52d4)
 
-##✨Summary 
-In essence, the My Recipe Book App aims to enrich the culinary experience by streamlining recipe management, fostering organization, and making cooking a more enjoyable activity for everyone.
+
